@@ -14,6 +14,11 @@
 ## About Me
 - Я изучаю **QA, JavaScript**
 - Ниже представлен мой проект, выполненный для школы автоматизациии [**QA.GURU**](https://qa.guru/)
+<p align="center">
+<a href="https://t.me/tailed_question" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=flat-square&logo=telegram&logoColor=white" height="20"></a>
+<a href="mailto:tailed.question@gmail.com" target="_blank"><img alt="gmail.com" src="https://img.shields.io/badge/Gmail-%23FF0000.svg?&style=flat-square&logo=gmail&logoColor=white" height="20"></a>
+<a href="https://github.com/PastRecall" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height="20"></a> 
+</p>
 
 ## Languages and Tools
 <p align="center">
