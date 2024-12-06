@@ -33,8 +33,10 @@
 
 
 ## My projects
-![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=PastRecall&repo=academybugs&show_icons=true&theme=dark)
-![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=PastRecall&repo=apichallenges&show_icons=true&theme=dark)
+Дипломный проект для школы автоматизациии [**QA.GURU**](https://qa.guru/)
+
+[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=PastRecall&repo=academybugs&show_icons=true&theme=dark)](https://github.com/PastRecall/academybugs)
+[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=PastRecall&repo=apichallenges&show_icons=true&theme=dark)](https://github.com/PastRecall/apichallenges)
 
 
 
