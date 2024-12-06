@@ -30,8 +30,7 @@
 </p>
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pastrecall&show_icons=true&theme=dark)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PastRecall&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ## My projects
 Дипломный проект для школы автоматизациии [**QA.GURU**](https://qa.guru/)
