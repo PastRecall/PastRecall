@@ -33,7 +33,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PastRecall&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ## My projects
-Дипломный проект для школы автоматизациии [**QA.GURU**](https://qa.guru/)
+Домашние работы для школы автоматизациии [**QA.GURU**](https://qa.guru/)
 
 [![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=PastRecall&repo=academybugs&show_icons=true&theme=dark)](https://github.com/PastRecall/academybugs)
 [![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=PastRecall&repo=apichallenges&show_icons=true&theme=dark)](https://github.com/PastRecall/apichallenges)
