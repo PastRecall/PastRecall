@@ -12,8 +12,8 @@
 </p>
 
 ## About Me
-- Я изучаю **QA, JavaScript**
-- Ниже представлен мой проект, выполненный для школы автоматизациии [**QA.GURU**](https://qa.guru/)
+- Я изучаю **AQA, JavaScript**
+- Ниже представлен мои д/з, выполненные для школы автоматизациии [**QA.GURU**](https://qa.guru/)
 
 ## Languages and Tools
 <p align="center">
@@ -28,9 +28,6 @@
   <img src="https://github.com/allure-framework/allure2/blob/main/.idea/icon.png" title="Allure Report" **alt="Allure Report" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="40" height="40"/>
 </p>
-
-## Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PastRecall&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ## My projects
 Домашние работы для школы автоматизациии [**QA.GURU**](https://qa.guru/)
