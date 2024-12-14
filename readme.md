@@ -13,7 +13,7 @@
 
 ## About Me
 - Я изучаю **AQA, JavaScript**
-- Ниже представлен мои д/з, выполненные для школы автоматизациии [**QA.GURU**](https://qa.guru/)
+- Ниже представлены мои д/з, выполненные для школы автоматизациии [**QA.GURU**](https://qa.guru/)
 
 ## Languages and Tools
 <p align="center">
