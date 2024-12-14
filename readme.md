@@ -29,6 +29,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="40" height="40"/>
 </p>
 
+## Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PastRecall&theme=dark&background=000000)](https://git.io/streak-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PastRecall&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ## My projects
 Домашние работы для школы автоматизациии [**QA.GURU**](https://qa.guru/)
 
