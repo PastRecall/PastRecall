@@ -30,16 +30,17 @@
 </p>
 
 ## Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PastRecall&theme=dark&background=000000)](https://git.io/streak-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PastRecall&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PastRecall&theme=dracula&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&locale=ru&short_numbers=%D0%9B%D0%9E%D0%96%D0%AC&date_format=n%2Fj%5B%2FY%5D&card_width=1000)](https://git.io/streak-stats)
 
 ## My projects
+Дипломный проект для школы автоматизациии [**QA.GURU**](https://qa.guru/)
+
+[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=PastRecall&repo=finalproject&show_icons=true&theme=dracula)](https://github.com/PastRecall/finalproject)
+
 Домашние работы для школы автоматизациии [**QA.GURU**](https://qa.guru/)
 
-[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=PastRecall&repo=academybugs&show_icons=true&theme=dark)](https://github.com/PastRecall/academybugs)
-[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=PastRecall&repo=apichallenges&show_icons=true&theme=dark)](https://github.com/PastRecall/apichallenges)
+[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=PastRecall&repo=academybugs&show_icons=true&theme=dracula)](https://github.com/PastRecall/academybugs)
+[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=PastRecall&repo=apichallenges&show_icons=true&theme=dracula)](https://github.com/PastRecall/apichallenges)
 
 
 
